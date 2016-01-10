@@ -1,0 +1,2 @@
+# FreifunkRouter
+Passwords (encrypted)
